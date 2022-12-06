@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Fahadfida
 - 👀 I’m interested in playing games and watching anime.
-- 🌱 I’m currently learning game development and 3d Modeling.
-- 💞️ I’m looking to collaborate on small game related projects.
+- 🌱 I’m currently learning Machine Learning and Data Science.
 - 📫 How to reach me? Here my email: Fahadfida40@gmail.com
 
 <!---

@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @Fahadfida
-- 👀 I’m interested in playing games and watching anime.
-- 🌱 I’m currently learning Machine Learning and Data Science.
-- 📫 How to reach me? Here my email: Fahadfida40@gmail.com
+# Konnichiwa, I'm Fahad 👋
 
-<!---
-Fahadfida/Fahadfida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🧑‍💻 The Dev Arc
+I'm currently in my **ML & Data Science arc**. When I'm not training models, I'm training my own patience by debugging Electron apps. I recently built **ShopMate POS**, a complete retail management system.
+
+### 🎮 Side Quests
+- **Gaming:** My main questline.
+- **Anime:** My source of inspiration and procrastination.
+- **Coffee:** The real MVP.
+
+### 📫 Summon Me
+- 📧 **Fahadfida400@gmail.com**
+
+*"It's not a bug, it's a feature... or an isekai plot twist."*
